@@ -1,0 +1,30 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.0.4",
+    "mongodb": "^3.3.2",
+    "mongoose": "^5.7.1",
+    "path": "^0.12.7",
+    "request": "^2.88.0",
+    "require": "^2.4.20",
+    "validator": "^11.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ANKUR2304/node-weather-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ANKUR2304/node-weather-website/issues"
+  },
+  "homepage": "https://github.com/ANKUR2304/node-weather-website#readme"
+}
